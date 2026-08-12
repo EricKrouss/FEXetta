@@ -1,3 +1,5 @@
+# FOR NOW THIS IS JUST A PROTOTYPE. DO NOT EXEPCT A LOT OF PROGRESS FOR A LONG WHILE.
+
 [中文](https://github.com/FEX-Emu/FEX/blob/main/docs/Readme_CN.md)
 # FEX: Emulate x86 Programs on ARM64
 FEX allows you to run x86 applications on ARM64 Linux devices, similar to qemu-user and box64.
